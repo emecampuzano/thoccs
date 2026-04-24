@@ -15,7 +15,7 @@ The included samples were taken from my keyboard (Keychron K2 with custom PBT Ke
 ## Setup
 
 ```bash
-pip install numpy soundfile
+pip install -r requirements.txt
 ```
 
 You'll need sample WAV files in the `samples/` directory:
