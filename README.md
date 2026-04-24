@@ -2,11 +2,15 @@
 
 Turns text into realistic typing sounds.
 
-I made this because I needed typing audio for videos and other projects. It takes keyboard samples and strings them together with some randomness so it actually sounds like someone typing instead of the same click repeated over and over.
+I made this because I needed typing audio for my Youtube vidzz. It takes keyboard samples and strings them together with some randomness so it actually sounds like someone typing instead of the same click repeated over and over.
+
+Probably nobody's going to notice the fact that you're actually using custom created audio for your title cards (like me), but if you're autistic like me, it's nice to have. 
 
 ## How it works
 
 Put your keystroke samples in `samples/` (WAV files). The script picks random samples for each character and adds timing variations and pitch shifts. Spaces use their own sample. Output goes to `output/`.
+
+The included samples were taken from my keyboard (Keychron K2 with custom PBT Keycaps, foam mod and O-rings) abd recorded in my terribly sounding room with a Neumann TLM102 into an Universal Audio Apollo X8. Processed in RX10 to remove reverb and added some low end with UAD Voice of God.
 
 ## Setup
 
