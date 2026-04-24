@@ -10,7 +10,7 @@ Probably nobody's going to notice the fact that you're actually using custom cre
 
 Put your keystroke samples in `samples/` (WAV files). The script picks random samples for each character and adds timing variations and pitch shifts. Spaces use their own sample. Output goes to `output/`.
 
-The included samples were taken from my keyboard (Keychron K2 with custom PBT Keycaps, foam mod and O-rings) abd recorded in my terribly sounding room with a Neumann TLM102 into an Universal Audio Apollo X8. Processed in RX10 to remove reverb and added some low end with UAD Voice of God.
+The included samples were taken from my keyboard (Keychron K2 with custom PBT Keycaps, foam mod and O-rings) and recorded in my terribly sounding room with a Neumann TLM102 into an Universal Audio Apollo X8. Processed in RX10 to remove reverb and added some low end with UAD Voice of God.
 
 ## Setup
 
