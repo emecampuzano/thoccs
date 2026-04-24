@@ -31,10 +31,10 @@ python main.py "your text here" --delay 150 --jitter 50 --output my_typing.wav
 ```
 
 Options:
-- `--delay` - Base time between keystrokes in milliseconds (default: 200)
+- `--delay` - Base time between keystrokes in milliseconds (default: 50)
 - `--jitter` - Random timing variation in ms (default: 40)
 - `--pitch-variance` - How much pitch can shift, e.g., 0.04 = ±4% (default: 0.04)
-- `--no-pitch` - Turn off pitch variation
+- `--no-pitch` - Turn off pitch variation (Disabled by default)
 - `--no-jitter` - Turn off timing variation
 - `--output` - Name of the output file (default: typed.wav)
 

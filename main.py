@@ -11,7 +11,7 @@ class TypingSimulator:
         self,
         samples_dir: str | Path = "samples",
         output_dir: str | Path = "output",
-        delay_ms: int = 150,
+        delay_ms: int = 200,
         jitter_ms: int = 40,
         pitch_variance: float = 0.04,
         pitch_enabled: bool = True,
